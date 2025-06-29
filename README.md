@@ -51,5 +51,4 @@ This tool allows you to scale a 15-minute interval load profile (from a CSV file
 - If you have trouble running the script, check that you are in the correct folder and that your input CSV is present.
 - If you enter something that is not a number, the script will skip it and continue.
 
-## License
-This project is provided for internal use. Please contact the author for external distribution. 
+
